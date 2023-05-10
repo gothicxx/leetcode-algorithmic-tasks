@@ -39,7 +39,7 @@ public class Launch {
         System.out.print("\n");
     }
 
-    private static void looper(double result, String symbol) {
+    private static void looper(double result, String symbol) throws IOException {
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
             while (true) {
                 System.out.println("if you want to break, write \"exit\"");

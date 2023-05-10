@@ -2,6 +2,8 @@ package arroganteIT.projects.calculator;
 
 public class CalculatorImpl implements Calculator{
 
+    private String name;
+
     public CalculatorImpl() {
     }
 
