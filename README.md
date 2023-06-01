@@ -1,3 +1,4 @@
 # leetcode-algorithmic-tasks
-by arroganteIT
+
+practice from time to time.
 
