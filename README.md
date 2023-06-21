@@ -3,5 +3,5 @@
 later will add a new code.
 
 practice from time to time,
-mostly leetcode.
+mostly Leetcode.
 
